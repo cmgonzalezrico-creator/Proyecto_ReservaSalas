@@ -9,11 +9,7 @@ Un sistema sencillo y eficiente desarrollado en **Java** y **JavaFX** para la ge
 **ReservaSalas** es una aplicación de escritorio diseñada para optimizar la asignación de espacios físicos dentro de una universidad. Permite a los usuarios administrar el ciclo completo de una reserva, evitando conflictos de horarios y asegurando la disponibilidad de los recursos de la institución.
 
 ### Características Principales:
-* **Registrar Salas:** Da de alta nuevos espacios especificando su tipo (AULA, LABORATORIO, AUDITORIO).
 * **Crear Reservas:** Permite a los usuarios agendar una sala en una fecha y hora específicas.
-* **Consultar y Cancelar:** Control total para buscar reservas existentes o darlas de baja si los planes cambian.
-* **Listar y Reportar:** Visualización clara de todos los espacios y un módulo para generar reportes generales del estado del sistema.
-
 ---
 
 ##  Tecnologías Utilizadas
@@ -28,7 +24,7 @@ Un sistema sencillo y eficiente desarrollado en **Java** y **JavaFX** para la ge
 
 ### Prerrequisitos
 Asegúrate de tener instalado en tu equipo:
-* Java JDK ([Tu versión])
+* Java JDK (Versión 17 o superior recomendada)
 * Maven
 
 ### 1. Clonar el repositorio
